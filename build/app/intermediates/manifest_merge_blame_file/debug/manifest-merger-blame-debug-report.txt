@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.womenloseweight.watertracker.flutter"
+3    package="com.habihut.women.weight.loss"
 4    android:versionCode="1"
 5    android:versionName="1.0.0" >
 6
@@ -82,12 +82,12 @@
 44
 45    <permission
 45-->[androidx.core:core:1.10.1] /Users/veronicahokinyi/.gradle/caches/transforms-3/a7723cf9fdde692994066449f5c03e11/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
-46        android:name="com.womenloseweight.watertracker.flutter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+46        android:name="com.habihut.women.weight.loss.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
 46-->[androidx.core:core:1.10.1] /Users/veronicahokinyi/.gradle/caches/transforms-3/a7723cf9fdde692994066449f5c03e11/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
 47        android:protectionLevel="signature" />
 47-->[androidx.core:core:1.10.1] /Users/veronicahokinyi/.gradle/caches/transforms-3/a7723cf9fdde692994066449f5c03e11/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
 48
-49    <uses-permission android:name="com.womenloseweight.watertracker.flutter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+49    <uses-permission android:name="com.habihut.women.weight.loss.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 49-->[androidx.core:core:1.10.1] /Users/veronicahokinyi/.gradle/caches/transforms-3/a7723cf9fdde692994066449f5c03e11/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
 49-->[androidx.core:core:1.10.1] /Users/veronicahokinyi/.gradle/caches/transforms-3/a7723cf9fdde692994066449f5c03e11/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
 50    <uses-permission android:name="com.android.vending.BILLING" />
@@ -111,7 +111,7 @@
 65            android:value="ca-app-pub-3940256099942544~3347511713" />
 66
 67        <activity
-68            android:name="com.example.women_lose_weight_flutter.MainActivity"
+68            android:name="com.habihut.women.weight.loss.MainActivity"
 69            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
 70            android:exported="true"
 71            android:hardwareAccelerated="true"
@@ -318,7 +318,7 @@
 191-->[:share_plus] /Users/veronicahokinyi/Projects/MainFile_LoseWeightForWomen_V(1.2)/SourceCode/build/share_plus/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
 192            android:name="dev.fluttercommunity.plus.share.ShareFileProvider"
 192-->[:share_plus] /Users/veronicahokinyi/Projects/MainFile_LoseWeightForWomen_V(1.2)/SourceCode/build/share_plus/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-77
-193            android:authorities="com.womenloseweight.watertracker.flutter.flutter.share_provider"
+193            android:authorities="com.habihut.women.weight.loss.flutter.share_provider"
 193-->[:share_plus] /Users/veronicahokinyi/Projects/MainFile_LoseWeightForWomen_V(1.2)/SourceCode/build/share_plus/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-74
 194            android:exported="false"
 194-->[:share_plus] /Users/veronicahokinyi/Projects/MainFile_LoseWeightForWomen_V(1.2)/SourceCode/build/share_plus/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-37
@@ -462,7 +462,7 @@
 271-->[com.google.firebase:firebase-common:20.3.3] /Users/veronicahokinyi/.gradle/caches/transforms-3/389a10ceba96d1ba22cf525fe80adc5f/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:25:9-30:39
 272            android:name="com.google.firebase.provider.FirebaseInitProvider"
 272-->[com.google.firebase:firebase-common:20.3.3] /Users/veronicahokinyi/.gradle/caches/transforms-3/389a10ceba96d1ba22cf525fe80adc5f/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:26:13-77
-273            android:authorities="com.womenloseweight.watertracker.flutter.firebaseinitprovider"
+273            android:authorities="com.habihut.women.weight.loss.firebaseinitprovider"
 273-->[com.google.firebase:firebase-common:20.3.3] /Users/veronicahokinyi/.gradle/caches/transforms-3/389a10ceba96d1ba22cf525fe80adc5f/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:27:13-72
 274            android:directBootAware="true"
 274-->[com.google.firebase:firebase-common:20.3.3] /Users/veronicahokinyi/.gradle/caches/transforms-3/389a10ceba96d1ba22cf525fe80adc5f/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:28:13-43
@@ -494,7 +494,7 @@
 288-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/veronicahokinyi/.gradle/caches/transforms-3/c92ec49959f5e556ba9b625ff32f25ad/transformed/jetified-play-services-ads-lite-21.3.0/AndroidManifest.xml:55:9-59:39
 289            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
 289-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/veronicahokinyi/.gradle/caches/transforms-3/c92ec49959f5e556ba9b625ff32f25ad/transformed/jetified-play-services-ads-lite-21.3.0/AndroidManifest.xml:56:13-76
-290            android:authorities="com.womenloseweight.watertracker.flutter.mobileadsinitprovider"
+290            android:authorities="com.habihut.women.weight.loss.mobileadsinitprovider"
 290-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/veronicahokinyi/.gradle/caches/transforms-3/c92ec49959f5e556ba9b625ff32f25ad/transformed/jetified-play-services-ads-lite-21.3.0/AndroidManifest.xml:57:13-73
 291            android:exported="false"
 291-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/veronicahokinyi/.gradle/caches/transforms-3/c92ec49959f5e556ba9b625ff32f25ad/transformed/jetified-play-services-ads-lite-21.3.0/AndroidManifest.xml:58:13-37
@@ -521,7 +521,7 @@
 303-->[androidx.emoji2:emoji2:1.2.0] /Users/veronicahokinyi/.gradle/caches/transforms-3/da801759f9d40f2e0b85bc5437dbba51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
 304            android:name="androidx.startup.InitializationProvider"
 304-->[androidx.emoji2:emoji2:1.2.0] /Users/veronicahokinyi/.gradle/caches/transforms-3/da801759f9d40f2e0b85bc5437dbba51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
-305            android:authorities="com.womenloseweight.watertracker.flutter.androidx-startup"
+305            android:authorities="com.habihut.women.weight.loss.androidx-startup"
 305-->[androidx.emoji2:emoji2:1.2.0] /Users/veronicahokinyi/.gradle/caches/transforms-3/da801759f9d40f2e0b85bc5437dbba51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
 306            android:exported="false" >
 306-->[androidx.emoji2:emoji2:1.2.0] /Users/veronicahokinyi/.gradle/caches/transforms-3/da801759f9d40f2e0b85bc5437dbba51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37

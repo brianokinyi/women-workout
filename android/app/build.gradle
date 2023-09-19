@@ -43,7 +43,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.womenloseweight.watertracker.flutter"
+        applicationId "com.habihut.women.weight.loss"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode flutterVersionCode.toInteger()

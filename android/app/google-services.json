@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:9870234856:android:8cf9e91354713cc552255d",
         "android_client_info": {
-          "package_name": "com.womenloseweight.watertracker.flutter"
+          "package_name": "com.habihut.women.weight.loss"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "9870234856-7euqfg7fa9mqabo8bpf2s00en6qks330.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.womenloseweight.watertracker.flutter",
+            "package_name": "com.habihut.women.weight.loss",
             "certificate_hash": "e1d6d166aeefb1efa101a25cb1702c95595afbf9"
           }
         },
@@ -42,7 +42,7 @@
               "client_id": "9870234856-t2tvl9t9sd90buai1ceer8lv5o05sgc2.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.womenloseweight.watertracker.flutter"
+                "bundle_id": "com.habihut.women.weight.loss"
               }
             }
           ]

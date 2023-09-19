@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.womenloseweight.watertracker.flutter"
+    package="com.habihut.women.weight.loss"
     android:versionCode="1"
     android:versionName="1.0.0" >
 
@@ -43,10 +43,10 @@
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
 
     <permission
-        android:name="com.womenloseweight.watertracker.flutter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.habihut.women.weight.loss.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.womenloseweight.watertracker.flutter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.habihut.women.weight.loss.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
     <uses-permission android:name="com.android.vending.BILLING" />
 
     <application
@@ -65,7 +65,7 @@
             android:value="ca-app-pub-3940256099942544~3347511713" />
 
         <activity
-            android:name="com.example.women_lose_weight_flutter.MainActivity"
+            android:name="com.habihut.women.weight.loss.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
             android:exported="true"
             android:hardwareAccelerated="true"
@@ -190,7 +190,7 @@
         -->
         <provider
             android:name="dev.fluttercommunity.plus.share.ShareFileProvider"
-            android:authorities="com.womenloseweight.watertracker.flutter.flutter.share_provider"
+            android:authorities="com.habihut.women.weight.loss.flutter.share_provider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -270,7 +270,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.womenloseweight.watertracker.flutter.firebaseinitprovider"
+            android:authorities="com.habihut.women.weight.loss.firebaseinitprovider"
             android:directBootAware="true"
             android:exported="false"
             android:initOrder="100" />
@@ -287,7 +287,7 @@
 
         <provider
             android:name="com.google.android.gms.ads.MobileAdsInitProvider"
-            android:authorities="com.womenloseweight.watertracker.flutter.mobileadsinitprovider"
+            android:authorities="com.habihut.women.weight.loss.mobileadsinitprovider"
             android:exported="false"
             android:initOrder="100" />
 
@@ -302,7 +302,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.womenloseweight.watertracker.flutter.androidx-startup"
+            android:authorities="com.habihut.women.weight.loss.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"
