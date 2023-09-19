@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">9870234856-ng4nld49sfsp6r972kqcei7lklblg22m.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">9870234856</string>
+    <string name="google_api_key" translatable="false">AIzaSyD9l27EuiQBB3iTzKv39t9HCl9kQwVq1RA</string>
+    <string name="google_app_id" translatable="false">1:9870234856:android:8cf9e91354713cc552255d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD9l27EuiQBB3iTzKv39t9HCl9kQwVq1RA</string>
+    <string name="google_storage_bucket" translatable="false">lose-weight-for-women-flutter.appspot.com</string>
+    <string name="project_id" translatable="false">lose-weight-for-women-flutter</string>
+</resources>

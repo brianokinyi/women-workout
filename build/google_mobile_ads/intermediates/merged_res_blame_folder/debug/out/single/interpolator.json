@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/veronicahokinyi/Projects/MainFile_LoseWeightForWomen_V(1.2)/SourceCode/build/google_mobile_ads/intermediates/res/merged/debug/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/veronicahokinyi/.gradle/caches/transforms-3/5ff2da908c3988073615b4441158ae82/transformed/appcompat-1.2.0/res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/veronicahokinyi/Projects/MainFile_LoseWeightForWomen_V(1.2)/SourceCode/build/google_mobile_ads/intermediates/res/merged/debug/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/veronicahokinyi/.gradle/caches/transforms-3/5ff2da908c3988073615b4441158ae82/transformed/appcompat-1.2.0/res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/veronicahokinyi/Projects/MainFile_LoseWeightForWomen_V(1.2)/SourceCode/build/google_mobile_ads/intermediates/res/merged/debug/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/veronicahokinyi/.gradle/caches/transforms-3/5ff2da908c3988073615b4441158ae82/transformed/appcompat-1.2.0/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/veronicahokinyi/Projects/MainFile_LoseWeightForWomen_V(1.2)/SourceCode/build/google_mobile_ads/intermediates/res/merged/debug/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/veronicahokinyi/.gradle/caches/transforms-3/5ff2da908c3988073615b4441158ae82/transformed/appcompat-1.2.0/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/veronicahokinyi/Projects/MainFile_LoseWeightForWomen_V(1.2)/SourceCode/build/google_mobile_ads/intermediates/res/merged/debug/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/veronicahokinyi/.gradle/caches/transforms-3/5ff2da908c3988073615b4441158ae82/transformed/appcompat-1.2.0/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/veronicahokinyi/Projects/MainFile_LoseWeightForWomen_V(1.2)/SourceCode/build/google_mobile_ads/intermediates/res/merged/debug/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/veronicahokinyi/.gradle/caches/transforms-3/5ff2da908c3988073615b4441158ae82/transformed/appcompat-1.2.0/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/veronicahokinyi/Projects/MainFile_LoseWeightForWomen_V(1.2)/SourceCode/build/google_mobile_ads/intermediates/res/merged/debug/interpolator/fast_out_slow_in.xml",
+        "source": "/Users/veronicahokinyi/.gradle/caches/transforms-3/5ff2da908c3988073615b4441158ae82/transformed/appcompat-1.2.0/res/interpolator/fast_out_slow_in.xml"
+    }
+]

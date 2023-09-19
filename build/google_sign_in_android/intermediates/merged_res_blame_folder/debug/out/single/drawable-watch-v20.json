@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/veronicahokinyi/Projects/MainFile_LoseWeightForWomen_V(1.2)/SourceCode/build/google_sign_in_android/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/veronicahokinyi/.gradle/caches/transforms-3/a59b8e39d0ba11650ca8351504d2a39d/transformed/jetified-play-services-auth-20.6.0/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/veronicahokinyi/Projects/MainFile_LoseWeightForWomen_V(1.2)/SourceCode/build/google_sign_in_android/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/veronicahokinyi/.gradle/caches/transforms-3/a59b8e39d0ba11650ca8351504d2a39d/transformed/jetified-play-services-auth-20.6.0/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/veronicahokinyi/Projects/MainFile_LoseWeightForWomen_V(1.2)/SourceCode/build/google_sign_in_android/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/veronicahokinyi/.gradle/caches/transforms-3/a59b8e39d0ba11650ca8351504d2a39d/transformed/jetified-play-services-auth-20.6.0/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

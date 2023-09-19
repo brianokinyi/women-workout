@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/veronicahokinyi/Projects/MainFile_LoseWeightForWomen_V(1.2)/SourceCode/build/google_mobile_ads/intermediates/res/merged/debug/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "/Users/veronicahokinyi/.gradle/caches/transforms-3/5ff2da908c3988073615b4441158ae82/transformed/appcompat-1.2.0/res/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/veronicahokinyi/Projects/MainFile_LoseWeightForWomen_V(1.2)/SourceCode/build/google_mobile_ads/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "/Users/veronicahokinyi/.gradle/caches/transforms-3/5ff2da908c3988073615b4441158ae82/transformed/appcompat-1.2.0/res/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    }
+                }
+            ]
+        }
+    ]
+}
