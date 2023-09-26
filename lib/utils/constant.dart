@@ -73,17 +73,17 @@ class Constant {
 
   static const String trackingStatus = "TrackingStatus.authorized";
 
-  static const String emailPath = 'Add your email address here';
+  static const String emailPath = 'nyachaevivian@gmail.com';
 
   static const statusSyncCompleted = 0;
   static const statusSyncPending = 1;
   static const statusSyncDeleted = 2;
 
-  static const  googlePlayIdentifier =  "Add your googlePlayIdentifier here";
+  static const  googlePlayIdentifier =  "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAh0LlkreaZTCQKSDWTeghBvexUn+ajNvRLyZT1IZPVlwxlgusl1/nVdE1aAUC/z6+yDhtmdTK0XVRsEBOVt+vk1HegYr46Knlc7JHnjCfxrKHNrVz5LOsEUE+hhqrzdzSLqqy+uMsiDzCBYYbOw3scydAF+NAsJtEBZ0CKOninxrExxWKfa6f4AF/POZH07LbVP8L3+OkGhBEoH0+X2TVRTrVzSS450dHW4DdyboWWwlerSh9zPrZeK6vXC+rcWWH4l5CN3c2PxrDz4ljOsq0eGB2EStB/jp+3WVzFCYVKb12goaVDVttgy6h/5ortreiz/ZUj8YfftXNQXCqF3k5cQIDAQAB";
   static const  appStoreIdentifier  = "Add your appStoreIdentifier here";
 
   static String getPrivacyPolicyURL() {
-    return "Add your privacy policy link here";
+    return "https://www.freeprivacypolicy.com/live/e8ac231b-ef70-4744-ab9f-a7870cd9bf4a";
   }
 
   static const String shareLink = "Add your app url here";
